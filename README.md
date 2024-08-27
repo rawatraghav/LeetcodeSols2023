@@ -30,6 +30,11 @@ Sliding Window Patterns: https://lnkd.in/gb5NeskQ
 
 You will honestly save tons of time, I figured out the patterns probably after doing some 500 questions.
 
+## System design books
+
+Alex Xu system design : https://github.com/preslavmihaylov/booknotes
+
+Alex Xu ML system design : 
 
 ## System Design Resources
 
